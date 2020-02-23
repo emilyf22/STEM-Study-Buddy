@@ -1,0 +1,9 @@
+BE330 General Equations
+
+Resistors in Series and Parallel. 
+
+Series:
+RT = R1 + R2
+
+Parallel:
+(1/RT) = (1/R1) + (1/R2)

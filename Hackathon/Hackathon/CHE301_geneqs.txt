@@ -1,0 +1,6 @@
+
+
+CHE 301 General Equations:
+Liquefaction potential: FS =  Resistance / loading
+van't Hoff equation: ln(K2/K1) = -deltaH0 / R (1/T2 - 1/T1)     where K = equilibrium constant, R= gas constant, T = temperature
+Clausius-Clapeyron equation: ln(P2/P1) = -delta Hvap/R *(1/T2 - 1/T1)      where P = vapor pressure, T = temperature, R = gas constant

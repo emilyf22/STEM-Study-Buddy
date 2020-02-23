@@ -1,0 +1,9 @@
+
+
+CHE 201 Exam 1:
+
+Q1: Calculate the volume of an ideal gas of 5.3 moles at 3 atm and 35 degrees Celsius
+	sol: Volume = 44.7L
+	
+Q2: Calculate the vapor pressure of liquid benzene with constants A=15.9008 B = 2788.51 degrees Celsius 
+	C = 220.80 degrees Celsius

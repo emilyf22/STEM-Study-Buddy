@@ -1,0 +1,10 @@
+
+
+EXAM 1 EE:
+
+Q1: Write a minterm expression for the following truth table:
+A    B  | Y
+0    0  | 0
+0	 1	| 1
+1	 0	| 1
+1	 1	| 0

@@ -1,0 +1,9 @@
+
+
+EE 261 Exam 2: 
+
+Q1: What kind of op amp would be optimal for the following system?
+	sol: INA
+
+Q2: If the switch on the circuit closes at t = 2 seconds, what is the value R1 in the figure below:
+	sol: 6.6k ohms

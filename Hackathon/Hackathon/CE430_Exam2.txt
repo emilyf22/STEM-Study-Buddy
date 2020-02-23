@@ -1,0 +1,8 @@
+
+
+CE 430 Exam 2:
+
+Q1: Calculate the stiffness of the beam with the values shown in the figure.
+		sol: k = 45 
+
+Q2: Draw the stress-strain curve of the structure below.

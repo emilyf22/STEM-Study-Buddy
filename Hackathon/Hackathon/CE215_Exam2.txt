@@ -1,0 +1,8 @@
+
+
+CE 215 Exam 2:
+
+Q1: Calculate torque given that the radius is 22 m, the Force applied is 7 N, and the Angle is 44 degrees.
+		sol: tau = 4 N*mm
+Q2: Calculate the combined stress of the structure given that you have to find bending stress and compressive stress.
+		sol: stress = 52 mPa

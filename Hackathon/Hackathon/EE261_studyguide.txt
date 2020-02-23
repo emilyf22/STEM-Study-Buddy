@@ -1,0 +1,7 @@
+
+
+EE 261 Study Guide:
+
+1.) Know how to calculate the power of any given circuit
+2.) Know how to draw an RC, LC, or RLC circuit and how to analyze each one
+3.) Understand how to find the natural response to the circuit

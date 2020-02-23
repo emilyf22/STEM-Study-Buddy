@@ -1,0 +1,5 @@
+BE 435 General Equations 
+
+Goldman–Hodgkin–Katz Equation
+
+Vm = (RT/F) ln (P[NA] + ....)

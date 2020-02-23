@@ -1,0 +1,7 @@
+
+
+CE 211 General EQUATIONS:
+
+Newton's Second Law: F = m*a    where F = force, m = mass, and a = acceleration
+Kinetic Energy: KE = 0.5* mv^2   where m = mass, v = velocity
+Moment of Inertia for solid cylinder: I = 0.5 * mr^2    where m = mass, r = radius

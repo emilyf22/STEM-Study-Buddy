@@ -1,0 +1,9 @@
+
+
+CHE 301 Exam 2: 
+
+Q1: What is the definition of phase equilibria?
+	sol: one phase is present and when changed it doesn't alter the amount of the material
+
+Q2: What is the first law of thermodynamics? What is the equation associated with this?
+	sol: conservation of energy ; delta U = Q - W

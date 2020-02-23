@@ -1,0 +1,7 @@
+BE 340 General Equations
+
+Laplace Transform Table:
+
+f(t)                    F(t)
+u(t)					1/s
+tu(t)					1/s^2

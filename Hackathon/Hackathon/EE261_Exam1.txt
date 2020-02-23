@@ -1,0 +1,8 @@
+
+
+EE 261 Exam 1:
+
+Q1. Given that: resistance = 11k ohms and current = 6.8 mA, what is voltage?
+	Sol: 75 V
+
+Q2. Draw an RC circuit in the space below:

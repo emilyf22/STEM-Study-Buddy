@@ -1,0 +1,7 @@
+
+
+CHE201 General Equations:
+
+Mechanical Energy Balance: (1/(2*alpha))deltaV + g*deltah + (deltaP/rho) + W_hat + E_f_hat
+Antoine Equation: log_base_10(p) = A - (B / (C + T))
+Ideal Gas Law: PV = nRT

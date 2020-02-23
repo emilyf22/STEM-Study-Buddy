@@ -1,0 +1,2 @@
+﻿Chem 331 Exam 1 
+1. For the reaction mechanism A → B → C can you always use the steady-state approximation, or if not, what must be true?

@@ -1,0 +1,9 @@
+
+
+CHE 310 Exam 2:
+
+Q1: If there is a porous media inside a tube, what would be the diffusion rate across the media given the following conditions in the diagram?
+	sol: 6.8
+
+Q2: Use Bernoulli's Equation on the bended pipe diagram below given the density of water, heights of the pipe, and that gravity = 9.81, and find the pressure at point 2.
+	sol: P2 = 6 Pa

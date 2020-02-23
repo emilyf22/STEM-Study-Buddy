@@ -1,0 +1,7 @@
+
+
+CE 215 General Equations:
+
+Stress: sigma = F / A   where F= force, A = area
+Strain: epsilon = delta L/ L   where delta L = change in length, L = original length
+Torque: tau = rFsin(theta)   where r = radius, F = force, and theta = angle between F and lever arm 

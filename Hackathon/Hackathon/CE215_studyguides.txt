@@ -1,0 +1,8 @@
+
+
+CE 215 study guides:
+
+Q1: Know how to implement the torque equation.
+Q2: Know the relationship between stress and strain, and how it applies to different structures
+Q3: Be able to calculate bending and represent how a structure will bend (direction).
+

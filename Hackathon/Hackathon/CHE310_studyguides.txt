@@ -1,0 +1,7 @@
+
+
+CHE 310 Study Guide:
+
+Q1: Know how to use Bernoulli's equation and where each parameter can be found on a system.
+Q2: Be able to calculate the pressure difference across a transport system.
+Q3: How to determine whether a flow is laminar or turbulent.

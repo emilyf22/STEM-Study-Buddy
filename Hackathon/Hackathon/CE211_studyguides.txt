@@ -1,0 +1,9 @@
+
+
+CE 211 Study Guides:
+
+Q1: Write the moment of inertia equation for a solid sphere.
+
+Q2: Know the tools needed to analyze a static structure.
+
+q3: Be able to draw shear and moment diagrams.

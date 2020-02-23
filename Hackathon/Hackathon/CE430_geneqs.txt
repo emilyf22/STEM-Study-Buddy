@@ -1,0 +1,7 @@
+
+
+CE 430 General Equations:
+
+stiffness: k = (pi^2/L) * stress * T * D   where L = length, T = thickness, and D = depth
+Stability equation for 2D truss structure: e > 2n-3    where e = number of elements, n = number of joints
+stablity equation for 3D truss structure: e > 3n - 6    where e = number of elements, n = number of joints

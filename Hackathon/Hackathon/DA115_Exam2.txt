@@ -1,0 +1,6 @@
+DA115 Exam2:
+
+Explain the benefits of r over JAVA:
+
+Write the correct use of the standard graph function in r:
+

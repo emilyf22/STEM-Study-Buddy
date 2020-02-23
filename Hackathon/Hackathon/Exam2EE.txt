@@ -1,0 +1,8 @@
+
+
+EXAM 2:
+
+Q1: which logic gate has a truth table that looks like this:
+	a.) AND gate
+	b.) OR gate
+	c.) XNOR gate

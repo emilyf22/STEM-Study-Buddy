@@ -1,0 +1,9 @@
+
+
+CHE 301 Exam 1
+
+Q1: Determine the vapor pressure in mm Hg of a substance at 45 degrees Celsius if its normal boiling point is 115 degrees Celsius and its enthalpy of vaporization is 57.9 kJ/mol and T1 = 115 degrees Celsius T2 = 45 degrees Celsius P1 = 1 atm R = 8.314 J/mol K deltaH_vap = 57.9 kJ/mol: 
+    sol: Pressure = 14.6 mm Hg
+
+Q2: If N_2 + 3H_2 <> 2NH_3 is 4.34 * 10^-3 at 300 degrees Celsius and deltaH is -92.4 kJ/mol, what is Kp at 600 degrees Celsius?
+    sol: 16

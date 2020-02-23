@@ -1,0 +1,7 @@
+
+
+CHE 310 General Equations:
+
+Fick's Law: J = -D dC/dx   where J = flux, dC/dx = concentration gradient
+Laminar Flow: f = 64/Re    where f = flow, Re = reynold's number
+Turbulent Flow: f = 0.316 / Re^(1/4)     where f = flow, Re = reynold's number

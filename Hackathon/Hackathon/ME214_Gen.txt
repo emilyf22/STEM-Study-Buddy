@@ -1,0 +1,3 @@
+ME214 General Equations: 
+
+Engineering Stress = Applied Force/Intial Cross-Sectional Area

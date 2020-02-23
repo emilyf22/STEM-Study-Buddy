@@ -1,0 +1,9 @@
+
+
+CHE 310 Exam 1: 
+
+Q1: Is the flow laminar or turbulent based on the reynold's number 2000?
+	sol: laminar
+
+Q2: Based on the pipe diagram below, what is the velocity of the water if the flow is turbulent?
+	sol: v = 3.2 m/s

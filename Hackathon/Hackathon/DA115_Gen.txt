@@ -1,0 +1,3 @@
+Data Analytics 115 General Equations:
+
+None applicable.  Declare Equation in your programs (r).

@@ -1,0 +1,9 @@
+
+
+CHE 201 Exam 2:
+
+Q1: Use a mass balance to find how many kg of O2 are going into the reactor
+	sol: see solution below
+
+Q2: Calculate the number of moles of an ideal gas where n = 1.0 moles V = 0.5 L T =25 degrees Celsius.
+	sol: 5 moles

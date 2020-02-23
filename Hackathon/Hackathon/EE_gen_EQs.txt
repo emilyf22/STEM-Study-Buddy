@@ -1,0 +1,8 @@
+
+
+EE 214 General Equations:
+
+Ohm's Law: V = i * R (where v is voltage, R is resistance, and i is current)
+Boolean and expression in verilog: &
+Boolean or expression in verilog: |
+Demorgan's Law: ~(A + B) = ~A & ~B

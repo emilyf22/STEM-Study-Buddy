@@ -1,0 +1,3 @@
+BE 435 Exam Study Guide
+
+1. The potential between after a certain distance on the membrane is equal to Ae(-x/lambda)+ Be(-x/lambda)....

@@ -1,0 +1,10 @@
+
+
+CE 211 Exam 1:
+
+Q1: What are the static equilibrium equations?
+		sol: sum of the forces in the x = 0
+		     sum of the forces in the y = 0
+
+Q2:  Calculate the force in segment 1 if the mass attached to the system below is equal to 4 kg.
+		sol: F = 7 N

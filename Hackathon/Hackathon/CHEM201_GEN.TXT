@@ -1,0 +1,6 @@
+Chem 331 General Equations
+Internal Energy:
+
+dU/dT = T(dS/dU)(dU/dS)
+
+Enthalpy

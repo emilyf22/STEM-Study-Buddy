@@ -1,0 +1,3 @@
+BE340 Exam2 Study Guide 
+
+Be able to convert analog signals to digital.

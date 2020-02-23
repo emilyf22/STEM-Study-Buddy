@@ -1,0 +1,6 @@
+DA115 Exam1:
+
+Does Rstudio contain a compiler?
+
+What is the print statement for r?
+

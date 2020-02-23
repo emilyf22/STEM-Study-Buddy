@@ -1,0 +1,4 @@
+Chem 331 Exam 2 Study Guide
+
+1. Use equipartition theory to predict the constant volume heat capacity of a diatomic gas,
+neglecting the vibrational degree of freedom. 

@@ -1,0 +1,10 @@
+
+
+CE 211 Exam 2: 
+
+
+Q1: Find the moment of inertia for the following simple structure:
+	sol: I = 41
+
+Q2: Use static equations to find the tensions: T1, T2, and T3 in the following diagram:
+	sol: T = 9 N

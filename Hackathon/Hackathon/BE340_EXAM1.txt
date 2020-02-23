@@ -1,0 +1,6 @@
+Be 340 Exam 1 Study Guide 
+
+
+Find the overall transfer function from the following flowchart:
+....
+....

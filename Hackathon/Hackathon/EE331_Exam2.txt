@@ -1,0 +1,9 @@
+
+
+EE 331 Exam 2:
+
+Q1: What is the tension of the standing wave on a string given that: m= 8 kg, L = 2m, and f = 3 1/s
+		sol: T = 4 N
+
+Q2: Draw a wave and label the: period, wavelength, and amplitude.
+		sol: see figure 5.6

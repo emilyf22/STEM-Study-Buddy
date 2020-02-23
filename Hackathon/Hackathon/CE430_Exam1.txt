@@ -1,0 +1,7 @@
+
+
+CE 430 Exam 1: 
+
+Q1: Solve the indeterminate beam system below. Show ENTIRE step process.
+Q2: Develop a matrix model for the system shown in figure 3.3.
+Q3: Analyze the following truss structures: 

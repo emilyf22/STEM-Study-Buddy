@@ -1,0 +1,7 @@
+
+
+EE 331 General EQUATIONS-
+
+Wavelength: lambda = v/f    where v = velocity, f= frequency
+Speed of Light: c = 1/sqrt(e*u)   where e = electric field, u = force
+frequency: f = sqrt(T/(m/L))/2L)   where L = string length, m = string mass, T = tension

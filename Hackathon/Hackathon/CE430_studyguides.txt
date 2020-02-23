@@ -1,0 +1,7 @@
+
+
+CE 430 Study Guide:
+
+Q1: know the method for solving statically indeterminate structures.
+
+Q2: Know the method for solving statically indeterminate to the second degree structures.

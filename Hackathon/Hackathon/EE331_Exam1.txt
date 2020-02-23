@@ -1,0 +1,9 @@
+
+
+EE 331 Exam 1:
+
+Q1: what is the frequency of the wave given that wavelength = 4m and velocity = 3 m/s
+	sol: 0.75 1/s
+
+Q2: What are the 3 paramenters to the wave equation?
+	sol: velocity, frequency, and wavelength

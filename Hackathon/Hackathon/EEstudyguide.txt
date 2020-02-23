@@ -1,0 +1,6 @@
+
+
+Past Study guides:
+
+Q1: What is the truth table for an OR gate?
+Q2: Draw a circuit for the truth table in figure 1.1.

@@ -1,0 +1,7 @@
+
+
+EE 261 General EQUATIONS
+
+Parallel Equivalence: 1/Req = 1/R1 + 1/R2 ...
+True Power: P = I * R^2 (P= power, I= current, R= resistance)
+Critically Damped Natural Response Equation: x(t) = (At + B)e^(alpha*t)  where B = x(0), dx/dt (0) = A - alpha*B
